@@ -1,96 +1,117 @@
-<h1 align="center">Hi 👋, I'm Lasya</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Engineer | Builder of Intelligent Systems</h3>
+<div align="center">
+
+# 👾 LASYA SB
+
+### ⚡ AI Engineer • Full-Stack Developer • Builder of Intelligent Systems
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Products;Full+Stack+Developer;LLMs+%7C+RAG+Systems+%7C+Backend+Engineering;Turning+Ideas+Into+Reality" />
+
+</div>
+
+---
+
+## 🧬 SYSTEM PROFILE
+
+```bash
+Name        : Lasya
+Role        : AI + Full Stack Developer
+Focus       : Intelligent Applications & Scalable Systems
+Status      : Building the Future 🚀
+```
+
+---
+
+## ⚡ TECH STACK
+
+### 🧠 Programming Languages
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;MERN+Stack+Builder;LLM+%7C+RAG+Explorer;Always+Learning+🚀" />
+<img src="https://skillicons.dev/icons?i=python,java,js,sql,html,css&theme=dark" />
 </p>
 
 ---
 
-## 🧠 About Me
+### 🎨 Frontend Development
 
-* 🤖 Building AI-powered applications & intelligent assistants
-* 🌐 Passionate about Full Stack + Machine Learning integration
-* 🔥 Exploring **LLMs, RAG pipelines, NLP systems**
-* ⚡ Strong focus on backend systems & scalable APIs
-* 💡 Turning ideas into real products
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+</p>
+
+React.js • Tailwind CSS • Modern UI Systems
 
 ---
 
-## 🚀 Tech Stack
+### ⚙️ Backend Development
 
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" />
 </p>
 
-### 🌐 Web Development
+Node.js • Express.js • FastAPI • Flask • REST APIs
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-</p>
+---
 
 ### 🤖 AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-* Machine Learning
 * Large Language Models (LLMs)
 * Retrieval-Augmented Generation (RAG)
-* Natural Language Processing (NLP)
+* NLP Applications
+* Prompt Engineering
+* Machine Learning Systems
 
 ---
 
-### 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" />
-</p>
-
----
-
-### 🛠 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
----
-
-## 📚 Core Concepts
-
-✔ Data Structures & Algorithms
-✔ REST API Development
-✔ Backend Architecture
-✔ API Integration
-
----
-
-## 🌟 Featured Project — ET-AI Concierge
-
-AI-powered financial assistant platform featuring:
-
-* Conversational onboarding
-* Financial analytics dashboard
-* Intelligent advisory workflows
-* Personalized financial insights
-
-**Tech:** MERN Stack • AI Integration • REST APIs
-
----
-
-## 📊 GitHub Analytics
+### 🗄️ Databases
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lasyasb&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite&theme=dark" />
 </p>
 
+MongoDB Atlas • PostgreSQL • SQLite
+
+---
+
+### ☁️ Deployment & DevOps
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lasyasb&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,render&theme=dark" />
+</p>
+
+Git • GitHub • Render • API Integration
+
+---
+
+### 🧩 Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,postman,latex&theme=dark" />
+</p>
+
+VS Code • Postman • Jupyter Notebook • Power BI
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+🧠 **ET-AI Concierge**
+AI-powered financial advisory platform with conversational onboarding, analytics dashboards, and intelligent tools.
+
+🤖 **AI Financial Advisor**
+LLM-driven recommendation system integrating analytics and financial persona modeling.
+
+⚡ **Full-Stack MERN Applications**
+Production-style applications integrating frontend, backend & databases.
+
+---
+
+## 📊 SYSTEM ANALYTICS
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lasyasb&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=lasyasb&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
@@ -99,16 +120,18 @@ AI-powered financial assistant platform featuring:
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 CONNECT WITH ME
 
-<p>
+<p align="center">
 <a href="https://github.com/lasyasb">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark"/>
 </a>
 </p>
 
 ---
 
-<p align="center">
-✨ <i>Building systems that think, learn, and assist humans intelligently.</i> ✨
-</p>
+<div align="center">
+
+### ⚡ *Building AI that actually thinks.*
+
+</div>
