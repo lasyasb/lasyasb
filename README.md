@@ -1,137 +1,89 @@
 <div align="center">
 
-# 👾 LASYA SB
+# 👾 LASYA
 
-### ⚡ AI Engineer • Full-Stack Developer • Builder of Intelligent Systems
+### ⚡ Full Stack Developer • AI Engineer • Intelligent Systems Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Products;Full+Stack+Developer;LLMs+%7C+RAG+Systems+%7C+Backend+Engineering;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Powered+Applications;Full+Stack+Engineering;LLMs+%7C+RAG+%7C+NLP;Building+Real+World+Systems" />
 
 </div>
 
 ---
 
-## 🧬 SYSTEM PROFILE
+## 🧠 ABOUT ME
 
-```bash
-Name        : Lasya
-Role        : AI + Full Stack Developer
-Focus       : Intelligent Applications & Scalable Systems
-Status      : Building the Future 🚀
-```
+* 🤖 Building AI-powered applications & intelligent assistants
+* 🌐 Passionate about Full Stack + Machine Learning integration
+* 🔥 Exploring LLMs, RAG pipelines & NLP systems
+* ⚙️ Focused on backend systems and scalable APIs
+* 💡 Turning ideas into real products
 
 ---
 
-## ⚡ TECH STACK
+## 🚀 TECH STACK
 
-### 🧠 Programming Languages
+### 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,sql,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,sql,html,css&theme=dark"/>
 </p>
 
 ---
 
-### 🎨 Frontend Development
+### 🌐 Web Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark"/>
 </p>
-
-React.js • Tailwind CSS • Modern UI Systems
-
----
-
-### ⚙️ Backend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" />
-</p>
-
-Node.js • Express.js • FastAPI • Flask • REST APIs
 
 ---
 
 ### 🤖 AI / Machine Learning
 
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* NLP Applications
-* Prompt Engineering
-* Machine Learning Systems
+Machine Learning • Large Language Models (LLMs) • Retrieval-Augmented Generation (RAG) • Natural Language Processing (NLP)
 
 ---
 
-### 🗄️ Databases
+### 🗄 Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite&theme=dark" />
-</p>
-
-MongoDB Atlas • PostgreSQL • SQLite
-
----
-
-### ☁️ Deployment & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,render&theme=dark" />
-</p>
-
-Git • GitHub • Render • API Integration
-
----
-
-### 🧩 Tools & Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,postman,latex&theme=dark" />
-</p>
-
-VS Code • Postman • Jupyter Notebook • Power BI
-
----
-
-## 🚀 FEATURED PROJECTS
-
-🧠 **ET-AI Concierge**
-AI-powered financial advisory platform with conversational onboarding, analytics dashboards, and intelligent tools.
-
-🤖 **AI Financial Advisor**
-LLM-driven recommendation system integrating analytics and financial persona modeling.
-
-⚡ **Full-Stack MERN Applications**
-Production-style applications integrating frontend, backend & databases.
-
----
-
-## 📊 SYSTEM ANALYTICS
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lasyasb&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=lasyasb&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasyasb&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite&theme=dark"/>
 </p>
 
 ---
 
-## 🌐 CONNECT WITH ME
+### 🛠 Tools & Platforms
 
 <p align="center">
-<a href="https://github.com/lasyasb">
-<img src="https://skillicons.dev/icons?i=github&theme=dark"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+</p>
+
+---
+
+## 📚 CORE CONCEPTS
+
+✔ Data Structures & Algorithms
+✔ Backend Architecture
+✔ REST API Development
+✔ API Integration
+✔ Scalable System Design
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lasyasb&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasyasb&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
 <div align="center">
 
-### ⚡ *Building AI that actually thinks.*
+🌙 *Build. Learn. Iterate.*
 
 </div>
